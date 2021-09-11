@@ -2,7 +2,7 @@
 
 Numb SMS API is a free SMS API for sending text messages.
 
->Note: Only philippine mobile number is currently supported.
+>Note: Only the philippine mobile number is currently supported.
 
 Link to the API: https://numb-sms.herokuapp.com
 
