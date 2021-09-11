@@ -7,7 +7,7 @@ Numb SMS API is a free SMS API for sending text messages.
 Link to the API: https://numb-sms.herokuapp.com
 
 ## Usage
-JSON parameters are used to communicate with API server.
+JSON parameters are used to communicate with the API server.
 
 Please refer to the following endpoint below:
 
