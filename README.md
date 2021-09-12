@@ -4,7 +4,7 @@ Numb SMS API is a free SMS API for sending text messages.
 
 >Note: Only the philippine mobile number is currently supported.
 
-Link to the API: https://numb-sms.herokuapp.com
+Link to the API: https://numb-sms.herokuapp.com/api
 
 ## Usage
 JSON parameters are used to communicate with the API server.
@@ -12,7 +12,7 @@ JSON parameters are used to communicate with the API server.
 Please refer to the following endpoint below:
 
 <details>
-  <summary>POST /sendMessage</summary>
+  <summary>POST /api/{version}/sendMessage</summary>
   <table>
     <thead>
       <tr>
